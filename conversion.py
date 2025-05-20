@@ -1,5 +1,6 @@
 """Module for converting numbers to binary representation."""
 
+
 def convert_to_binary(number):
     """Converts an integer to its binary representation."""
     if not isinstance(number, int):
